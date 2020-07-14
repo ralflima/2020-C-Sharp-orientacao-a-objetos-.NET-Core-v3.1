@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/bin/Debug/netcoreapp3.1/10Herança.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/bin/Debug/netcoreapp3.1/10Herança.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/bin/Debug/netcoreapp3.1/10Herança.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/bin/Debug/netcoreapp3.1/10Herança.dll
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/bin/Debug/netcoreapp3.1/10Herança.pdb
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/obj/Debug/netcoreapp3.1/10Herança.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/obj/Debug/netcoreapp3.1/10Herança.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/obj/Debug/netcoreapp3.1/10Herança.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/obj/Debug/netcoreapp3.1/10Herança.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/obj/Debug/netcoreapp3.1/10Herança.dll
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/obj/Debug/netcoreapp3.1/10Herança.pdb
+/Users/ralf/Desktop/Orientação a Objetos/10Herança/obj/Debug/netcoreapp3.1/10Herança.genruntimeconfig.cache

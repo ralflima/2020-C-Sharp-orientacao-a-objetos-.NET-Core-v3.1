@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/09This/bin/Debug/netcoreapp3.1/09This.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/09This/bin/Debug/netcoreapp3.1/09This.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/09This/bin/Debug/netcoreapp3.1/09This.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/09This/bin/Debug/netcoreapp3.1/09This.dll
+/Users/ralf/Desktop/Orientação a Objetos/09This/bin/Debug/netcoreapp3.1/09This.pdb
+/Users/ralf/Desktop/Orientação a Objetos/09This/obj/Debug/netcoreapp3.1/09This.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/09This/obj/Debug/netcoreapp3.1/09This.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/09This/obj/Debug/netcoreapp3.1/09This.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/09This/obj/Debug/netcoreapp3.1/09This.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/09This/obj/Debug/netcoreapp3.1/09This.dll
+/Users/ralf/Desktop/Orientação a Objetos/09This/obj/Debug/netcoreapp3.1/09This.pdb
+/Users/ralf/Desktop/Orientação a Objetos/09This/obj/Debug/netcoreapp3.1/09This.genruntimeconfig.cache

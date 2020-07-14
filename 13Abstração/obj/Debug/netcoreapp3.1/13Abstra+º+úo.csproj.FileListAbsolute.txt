@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/bin/Debug/netcoreapp3.1/13Abstração.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/bin/Debug/netcoreapp3.1/13Abstração.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/bin/Debug/netcoreapp3.1/13Abstração.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/bin/Debug/netcoreapp3.1/13Abstração.dll
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/bin/Debug/netcoreapp3.1/13Abstração.pdb
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/obj/Debug/netcoreapp3.1/13Abstração.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/obj/Debug/netcoreapp3.1/13Abstração.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/obj/Debug/netcoreapp3.1/13Abstração.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/obj/Debug/netcoreapp3.1/13Abstração.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/obj/Debug/netcoreapp3.1/13Abstração.dll
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/obj/Debug/netcoreapp3.1/13Abstração.pdb
+/Users/ralf/Desktop/Orientação a Objetos/13Abstração/obj/Debug/netcoreapp3.1/13Abstração.genruntimeconfig.cache

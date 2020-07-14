@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/bin/Debug/netcoreapp3.1/11Polimorfismo.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/bin/Debug/netcoreapp3.1/11Polimorfismo.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/bin/Debug/netcoreapp3.1/11Polimorfismo.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/bin/Debug/netcoreapp3.1/11Polimorfismo.dll
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/bin/Debug/netcoreapp3.1/11Polimorfismo.pdb
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/obj/Debug/netcoreapp3.1/11Polimorfismo.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/obj/Debug/netcoreapp3.1/11Polimorfismo.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/obj/Debug/netcoreapp3.1/11Polimorfismo.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/obj/Debug/netcoreapp3.1/11Polimorfismo.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/obj/Debug/netcoreapp3.1/11Polimorfismo.dll
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/obj/Debug/netcoreapp3.1/11Polimorfismo.pdb
+/Users/ralf/Desktop/Orientação a Objetos/11Polimorfismo/obj/Debug/netcoreapp3.1/11Polimorfismo.genruntimeconfig.cache

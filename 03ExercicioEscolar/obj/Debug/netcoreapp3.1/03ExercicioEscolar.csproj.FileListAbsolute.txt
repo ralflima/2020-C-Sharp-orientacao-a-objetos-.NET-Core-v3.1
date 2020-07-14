@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/bin/Debug/netcoreapp3.1/03ExercicioEscolar.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/bin/Debug/netcoreapp3.1/03ExercicioEscolar.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/bin/Debug/netcoreapp3.1/03ExercicioEscolar.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/bin/Debug/netcoreapp3.1/03ExercicioEscolar.dll
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/bin/Debug/netcoreapp3.1/03ExercicioEscolar.pdb
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/obj/Debug/netcoreapp3.1/03ExercicioEscolar.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/obj/Debug/netcoreapp3.1/03ExercicioEscolar.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/obj/Debug/netcoreapp3.1/03ExercicioEscolar.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/obj/Debug/netcoreapp3.1/03ExercicioEscolar.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/obj/Debug/netcoreapp3.1/03ExercicioEscolar.dll
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/obj/Debug/netcoreapp3.1/03ExercicioEscolar.pdb
+/Users/ralf/Desktop/Orientação a Objetos/03ExercicioEscolar/obj/Debug/netcoreapp3.1/03ExercicioEscolar.genruntimeconfig.cache

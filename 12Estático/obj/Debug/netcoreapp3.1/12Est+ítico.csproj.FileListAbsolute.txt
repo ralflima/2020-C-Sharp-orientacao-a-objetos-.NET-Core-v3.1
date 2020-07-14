@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/bin/Debug/netcoreapp3.1/12Estático.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/bin/Debug/netcoreapp3.1/12Estático.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/bin/Debug/netcoreapp3.1/12Estático.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/bin/Debug/netcoreapp3.1/12Estático.dll
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/bin/Debug/netcoreapp3.1/12Estático.pdb
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/obj/Debug/netcoreapp3.1/12Estático.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/obj/Debug/netcoreapp3.1/12Estático.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/obj/Debug/netcoreapp3.1/12Estático.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/obj/Debug/netcoreapp3.1/12Estático.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/obj/Debug/netcoreapp3.1/12Estático.dll
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/obj/Debug/netcoreapp3.1/12Estático.pdb
+/Users/ralf/Desktop/Orientação a Objetos/12Estático/obj/Debug/netcoreapp3.1/12Estático.genruntimeconfig.cache

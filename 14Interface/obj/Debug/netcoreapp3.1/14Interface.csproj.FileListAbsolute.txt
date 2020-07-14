@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/bin/Debug/netcoreapp3.1/14Interface.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/bin/Debug/netcoreapp3.1/14Interface.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/bin/Debug/netcoreapp3.1/14Interface.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/bin/Debug/netcoreapp3.1/14Interface.dll
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/bin/Debug/netcoreapp3.1/14Interface.pdb
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/obj/Debug/netcoreapp3.1/14Interface.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/obj/Debug/netcoreapp3.1/14Interface.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/obj/Debug/netcoreapp3.1/14Interface.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/obj/Debug/netcoreapp3.1/14Interface.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/obj/Debug/netcoreapp3.1/14Interface.dll
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/obj/Debug/netcoreapp3.1/14Interface.pdb
+/Users/ralf/Desktop/Orientação a Objetos/14Interface/obj/Debug/netcoreapp3.1/14Interface.genruntimeconfig.cache

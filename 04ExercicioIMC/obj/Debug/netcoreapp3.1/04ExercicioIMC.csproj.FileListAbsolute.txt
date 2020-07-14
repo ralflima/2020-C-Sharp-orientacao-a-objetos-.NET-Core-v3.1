@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/bin/Debug/netcoreapp3.1/04ExercicioIMC.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/bin/Debug/netcoreapp3.1/04ExercicioIMC.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/bin/Debug/netcoreapp3.1/04ExercicioIMC.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/bin/Debug/netcoreapp3.1/04ExercicioIMC.dll
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/bin/Debug/netcoreapp3.1/04ExercicioIMC.pdb
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/obj/Debug/netcoreapp3.1/04ExercicioIMC.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/obj/Debug/netcoreapp3.1/04ExercicioIMC.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/obj/Debug/netcoreapp3.1/04ExercicioIMC.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/obj/Debug/netcoreapp3.1/04ExercicioIMC.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/obj/Debug/netcoreapp3.1/04ExercicioIMC.dll
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/obj/Debug/netcoreapp3.1/04ExercicioIMC.pdb
+/Users/ralf/Desktop/Orientação a Objetos/04ExercicioIMC/obj/Debug/netcoreapp3.1/04ExercicioIMC.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/bin/Debug/netcoreapp3.1/07Construtor.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/bin/Debug/netcoreapp3.1/07Construtor.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/bin/Debug/netcoreapp3.1/07Construtor.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/bin/Debug/netcoreapp3.1/07Construtor.dll
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/bin/Debug/netcoreapp3.1/07Construtor.pdb
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/obj/Debug/netcoreapp3.1/07Construtor.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/obj/Debug/netcoreapp3.1/07Construtor.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/obj/Debug/netcoreapp3.1/07Construtor.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/obj/Debug/netcoreapp3.1/07Construtor.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/obj/Debug/netcoreapp3.1/07Construtor.dll
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/obj/Debug/netcoreapp3.1/07Construtor.pdb
+/Users/ralf/Desktop/Orientação a Objetos/07Construtor/obj/Debug/netcoreapp3.1/07Construtor.genruntimeconfig.cache

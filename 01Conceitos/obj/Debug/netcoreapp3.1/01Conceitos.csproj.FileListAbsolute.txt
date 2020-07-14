@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/bin/Debug/netcoreapp3.1/01Conceitos.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/bin/Debug/netcoreapp3.1/01Conceitos.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/bin/Debug/netcoreapp3.1/01Conceitos.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/bin/Debug/netcoreapp3.1/01Conceitos.dll
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/bin/Debug/netcoreapp3.1/01Conceitos.pdb
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/obj/Debug/netcoreapp3.1/01Conceitos.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/obj/Debug/netcoreapp3.1/01Conceitos.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/obj/Debug/netcoreapp3.1/01Conceitos.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/obj/Debug/netcoreapp3.1/01Conceitos.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/obj/Debug/netcoreapp3.1/01Conceitos.dll
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/obj/Debug/netcoreapp3.1/01Conceitos.pdb
+/Users/ralf/Desktop/Orientação a Objetos/01Conceitos/obj/Debug/netcoreapp3.1/01Conceitos.genruntimeconfig.cache

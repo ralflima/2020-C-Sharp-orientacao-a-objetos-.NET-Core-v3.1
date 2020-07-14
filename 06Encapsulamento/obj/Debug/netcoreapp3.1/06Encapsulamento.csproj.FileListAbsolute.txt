@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/bin/Debug/netcoreapp3.1/06Encapsulamento.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/bin/Debug/netcoreapp3.1/06Encapsulamento.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/bin/Debug/netcoreapp3.1/06Encapsulamento.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/bin/Debug/netcoreapp3.1/06Encapsulamento.dll
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/bin/Debug/netcoreapp3.1/06Encapsulamento.pdb
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/obj/Debug/netcoreapp3.1/06Encapsulamento.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/obj/Debug/netcoreapp3.1/06Encapsulamento.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/obj/Debug/netcoreapp3.1/06Encapsulamento.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/obj/Debug/netcoreapp3.1/06Encapsulamento.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/obj/Debug/netcoreapp3.1/06Encapsulamento.dll
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/obj/Debug/netcoreapp3.1/06Encapsulamento.pdb
+/Users/ralf/Desktop/Orientação a Objetos/06Encapsulamento/obj/Debug/netcoreapp3.1/06Encapsulamento.genruntimeconfig.cache

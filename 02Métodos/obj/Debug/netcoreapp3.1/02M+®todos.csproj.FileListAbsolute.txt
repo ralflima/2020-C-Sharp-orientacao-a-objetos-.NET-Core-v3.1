@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/bin/Debug/netcoreapp3.1/02Métodos.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/bin/Debug/netcoreapp3.1/02Métodos.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/bin/Debug/netcoreapp3.1/02Métodos.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/bin/Debug/netcoreapp3.1/02Métodos.dll
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/bin/Debug/netcoreapp3.1/02Métodos.pdb
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/obj/Debug/netcoreapp3.1/02Métodos.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/obj/Debug/netcoreapp3.1/02Métodos.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/obj/Debug/netcoreapp3.1/02Métodos.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/obj/Debug/netcoreapp3.1/02Métodos.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/obj/Debug/netcoreapp3.1/02Métodos.dll
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/obj/Debug/netcoreapp3.1/02Métodos.pdb
+/Users/ralf/Desktop/Orientação a Objetos/02Métodos/obj/Debug/netcoreapp3.1/02Métodos.genruntimeconfig.cache

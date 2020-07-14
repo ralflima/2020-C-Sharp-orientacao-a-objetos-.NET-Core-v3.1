@@ -1,0 +1,12 @@
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/bin/Debug/netcoreapp3.1/08GetSet.deps.json
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/bin/Debug/netcoreapp3.1/08GetSet.runtimeconfig.json
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/bin/Debug/netcoreapp3.1/08GetSet.runtimeconfig.dev.json
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/bin/Debug/netcoreapp3.1/08GetSet.dll
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/bin/Debug/netcoreapp3.1/08GetSet.pdb
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/obj/Debug/netcoreapp3.1/08GetSet.csprojAssemblyReference.cache
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/obj/Debug/netcoreapp3.1/08GetSet.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/obj/Debug/netcoreapp3.1/08GetSet.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/obj/Debug/netcoreapp3.1/08GetSet.AssemblyInfo.cs
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/obj/Debug/netcoreapp3.1/08GetSet.dll
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/obj/Debug/netcoreapp3.1/08GetSet.pdb
+/Users/ralf/Desktop/Orientação a Objetos/08GetSet/obj/Debug/netcoreapp3.1/08GetSet.genruntimeconfig.cache
